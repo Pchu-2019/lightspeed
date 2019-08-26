@@ -1,2 +1,0 @@
-# lightspeed
-just for learning
